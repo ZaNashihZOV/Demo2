@@ -94,5 +94,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="ДопЗадание\Модуль1\script.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ДопЗадание\Модуль2\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
